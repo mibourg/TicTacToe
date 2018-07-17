@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/reset_menu"
+        android:title="@string/reset" />
+
+    <item
+        android:id="@+id/one_player_menu"
+        android:title="@string/one_player_game" />
+
+    <item
+        android:id="@+id/two_player_menu"
+        android:title="@string/two_player_game" />
+
+</menu>
